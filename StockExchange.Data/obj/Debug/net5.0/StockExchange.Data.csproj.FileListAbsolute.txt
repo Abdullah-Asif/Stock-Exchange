@@ -1,0 +1,12 @@
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\bin\Debug\net5.0\StockExchange.Data.deps.json
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\bin\Debug\net5.0\StockExchange.Data.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\bin\Debug\net5.0\ref\StockExchange.Data.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\bin\Debug\net5.0\StockExchange.Data.pdb
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.csproj.AssemblyReference.cache
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.AssemblyInfoInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.AssemblyInfo.cs
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.csproj.CoreCompileInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\ref\StockExchange.Data.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\obj\Debug\net5.0\StockExchange.Data.pdb

@@ -1,0 +1,239 @@
+2022-03-16 08:01:06.718 +06:00 [INF] Application Starting up
+2022-03-16 08:01:09.287 +06:00 [INF] Worker running at: "2022-03-16T08:01:09.2780762+06:00"
+2022-03-16 08:01:10.321 +06:00 [INF] Worker running at: "2022-03-16T08:01:10.3218303+06:00"
+2022-03-16 08:01:11.342 +06:00 [INF] Worker running at: "2022-03-16T08:01:11.3421845+06:00"
+2022-03-16 08:01:12.349 +06:00 [INF] Worker running at: "2022-03-16T08:01:12.3498675+06:00"
+2022-03-16 08:01:13.359 +06:00 [INF] Worker running at: "2022-03-16T08:01:13.3589456+06:00"
+2022-03-16 08:01:14.366 +06:00 [INF] Worker running at: "2022-03-16T08:01:14.3663776+06:00"
+2022-03-16 08:01:15.374 +06:00 [INF] Worker running at: "2022-03-16T08:01:15.3744575+06:00"
+2022-03-16 08:01:16.389 +06:00 [INF] Worker running at: "2022-03-16T08:01:16.3893963+06:00"
+2022-03-16 08:01:17.391 +06:00 [INF] Worker running at: "2022-03-16T08:01:17.3915210+06:00"
+2022-03-16 08:01:18.395 +06:00 [INF] Worker running at: "2022-03-16T08:01:18.3952770+06:00"
+2022-03-16 08:01:19.404 +06:00 [INF] Worker running at: "2022-03-16T08:01:19.4040931+06:00"
+2022-03-16 08:01:20.421 +06:00 [INF] Worker running at: "2022-03-16T08:01:20.4205865+06:00"
+2022-03-16 08:01:21.423 +06:00 [INF] Worker running at: "2022-03-16T08:01:21.4238336+06:00"
+2022-03-16 08:01:22.435 +06:00 [INF] Worker running at: "2022-03-16T08:01:22.4349910+06:00"
+2022-03-16 08:01:23.450 +06:00 [INF] Worker running at: "2022-03-16T08:01:23.4502962+06:00"
+2022-03-16 08:01:24.453 +06:00 [INF] Worker running at: "2022-03-16T08:01:24.4537353+06:00"
+2022-03-16 08:01:25.462 +06:00 [INF] Worker running at: "2022-03-16T08:01:25.4620590+06:00"
+2022-03-16 08:01:26.468 +06:00 [INF] Worker running at: "2022-03-16T08:01:26.4678728+06:00"
+2022-03-16 08:01:27.471 +06:00 [INF] Worker running at: "2022-03-16T08:01:27.4719181+06:00"
+2022-03-16 08:01:28.480 +06:00 [INF] Worker running at: "2022-03-16T08:01:28.4801410+06:00"
+2022-03-16 08:01:29.486 +06:00 [INF] Worker running at: "2022-03-16T08:01:29.4863844+06:00"
+2022-03-16 08:01:30.495 +06:00 [INF] Worker running at: "2022-03-16T08:01:30.4954251+06:00"
+2022-03-16 08:01:31.499 +06:00 [INF] Worker running at: "2022-03-16T08:01:31.4996474+06:00"
+2022-03-16 08:01:32.504 +06:00 [INF] Worker running at: "2022-03-16T08:01:32.5047818+06:00"
+2022-03-16 08:01:33.531 +06:00 [INF] Worker running at: "2022-03-16T08:01:33.5309882+06:00"
+2022-03-16 08:01:34.559 +06:00 [INF] Worker running at: "2022-03-16T08:01:34.5596264+06:00"
+2022-03-16 08:01:35.571 +06:00 [INF] Worker running at: "2022-03-16T08:01:35.5712012+06:00"
+2022-03-16 08:01:36.585 +06:00 [INF] Worker running at: "2022-03-16T08:01:36.5853324+06:00"
+2022-03-16 08:01:37.601 +06:00 [INF] Worker running at: "2022-03-16T08:01:37.6010685+06:00"
+2022-03-16 08:01:38.623 +06:00 [INF] Worker running at: "2022-03-16T08:01:38.6234944+06:00"
+2022-03-16 08:01:39.641 +06:00 [INF] Worker running at: "2022-03-16T08:01:39.6409907+06:00"
+2022-03-16 08:01:40.649 +06:00 [INF] Worker running at: "2022-03-16T08:01:40.6492321+06:00"
+2022-03-16 08:01:41.654 +06:00 [INF] Worker running at: "2022-03-16T08:01:41.6548085+06:00"
+2022-03-16 08:01:42.658 +06:00 [INF] Worker running at: "2022-03-16T08:01:42.6580571+06:00"
+2022-03-16 08:01:43.673 +06:00 [INF] Worker running at: "2022-03-16T08:01:43.6733341+06:00"
+2022-03-16 08:01:44.687 +06:00 [INF] Worker running at: "2022-03-16T08:01:44.6866585+06:00"
+2022-03-16 08:01:45.697 +06:00 [INF] Worker running at: "2022-03-16T08:01:45.6978587+06:00"
+2022-03-16 08:01:46.700 +06:00 [INF] Worker running at: "2022-03-16T08:01:46.7002058+06:00"
+2022-03-16 08:01:47.713 +06:00 [INF] Worker running at: "2022-03-16T08:01:47.7136573+06:00"
+2022-03-16 08:01:48.721 +06:00 [INF] Worker running at: "2022-03-16T08:01:48.7214197+06:00"
+2022-03-16 08:01:49.733 +06:00 [INF] Worker running at: "2022-03-16T08:01:49.7330845+06:00"
+2022-03-16 08:01:50.749 +06:00 [INF] Worker running at: "2022-03-16T08:01:50.7498143+06:00"
+2022-03-16 08:01:51.752 +06:00 [INF] Worker running at: "2022-03-16T08:01:51.7525396+06:00"
+2022-03-16 08:01:52.754 +06:00 [INF] Worker running at: "2022-03-16T08:01:52.7549100+06:00"
+2022-03-16 08:01:53.757 +06:00 [INF] Worker running at: "2022-03-16T08:01:53.7571521+06:00"
+2022-03-16 10:01:10.191 +06:00 [INF] Application Starting up
+2022-03-16 10:01:11.334 +06:00 [INF] Worker running at: "2022-03-16T10:01:11.3264720+06:00"
+2022-03-16 10:01:11.432 +06:00 [FTL] Application start-up failed
+System.ArgumentNullException: Value cannot be null. (Parameter 'context')
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve[TService](IComponentContext context, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve[TService](IComponentContext context)
+   at StockExchange.Worker.Model..ctor() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Model.cs:line 19
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 28
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:08:47.923 +06:00 [INF] Application Starting up
+2022-03-16 10:08:50.296 +06:00 [INF] Worker running at: "2022-03-16T10:08:50.2891242+06:00"
+2022-03-16 10:08:50.375 +06:00 [FTL] Application start-up failed
+System.ArgumentNullException: Value cannot be null. (Parameter 'context')
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve[TService](IComponentContext context, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve[TService](IComponentContext context)
+   at StockExchange.Worker.Model..ctor() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Model.cs:line 16
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 28
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:14:03.747 +06:00 [INF] Application Starting up
+2022-03-16 10:14:05.387 +06:00 [INF] Worker running at: "2022-03-16T10:14:05.3723352+06:00"
+2022-03-16 10:14:08.272 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s)
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 50
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:32:36.618 +06:00 [INF] Application Starting up
+2022-03-16 10:32:37.746 +06:00 [INF] Worker running at: "2022-03-16T10:32:37.7384965+06:00"
+2022-03-16 10:32:40.117 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s)
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 50
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:34:16.701 +06:00 [INF] Application Starting up
+2022-03-16 10:34:18.793 +06:00 [INF] Worker running at: "2022-03-16T10:34:18.7865186+06:00"
+2022-03-16 10:34:21.036 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s)
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 50
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:34:44.970 +06:00 [INF] Application Starting up
+2022-03-16 10:34:46.714 +06:00 [INF] Worker running at: "2022-03-16T10:34:46.7053068+06:00"
+2022-03-16 10:34:48.486 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s)
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 50
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:35:29.939 +06:00 [INF] Application Starting up
+2022-03-16 10:35:30.991 +06:00 [INF] Worker running at: "2022-03-16T10:35:30.9811462+06:00"
+2022-03-16 10:35:33.474 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s)
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 50
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 30
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 10:39:48.453 +06:00 [INF] Application Starting up
+2022-03-16 10:40:49.620 +06:00 [INF] Worker running at: "2022-03-16T10:40:49.6111066+06:00"
+2022-03-16 10:40:56.303 +06:00 [INF] Worker running at: "2022-03-16T10:40:56.3034752+06:00"
+2022-03-16 10:41:02.926 +06:00 [INF] Worker running at: "2022-03-16T10:41:02.9266612+06:00"
+2022-03-16 10:41:09.658 +06:00 [INF] Worker running at: "2022-03-16T10:41:09.6583862+06:00"
+2022-03-16 10:41:15.819 +06:00 [INF] Worker running at: "2022-03-16T10:41:15.8192344+06:00"
+2022-03-16 10:41:21.941 +06:00 [INF] Worker running at: "2022-03-16T10:41:21.9411205+06:00"
+2022-03-16 10:41:28.106 +06:00 [INF] Worker running at: "2022-03-16T10:41:28.1061742+06:00"
+2022-03-16 10:44:09.737 +06:00 [INF] Application Starting up
+2022-03-16 10:44:13.156 +06:00 [INF] Worker running at: "2022-03-16T10:44:13.1477384+06:00"
+2022-03-16 10:44:20.064 +06:00 [INF] Worker running at: "2022-03-16T10:44:20.0645794+06:00"
+2022-03-16 10:55:58.256 +06:00 [INF] Application Starting up
+2022-03-16 10:56:02.201 +06:00 [INF] Worker running at: "2022-03-16T10:56:02.1931704+06:00"
+2022-03-16 10:56:08.447 +06:00 [INF] Worker running at: "2022-03-16T10:56:08.4473109+06:00"
+2022-03-16 10:56:14.533 +06:00 [INF] Worker running at: "2022-03-16T10:56:14.5331581+06:00"
+2022-03-16 11:00:30.820 +06:00 [INF] Application Starting up
+2022-03-16 11:00:33.809 +06:00 [INF] Worker running at: "2022-03-16T11:00:33.8023803+06:00"
+2022-03-16 11:00:40.635 +06:00 [INF] Worker running at: "2022-03-16T11:00:40.6358443+06:00"
+2022-03-16 11:01:30.564 +06:00 [INF] Application Starting up
+2022-03-16 11:01:33.700 +06:00 [INF] Worker running at: "2022-03-16T11:01:33.6931919+06:00"
+2022-03-16 11:01:40.485 +06:00 [INF] Worker running at: "2022-03-16T11:01:40.4850826+06:00"
+2022-03-16 11:02:44.436 +06:00 [INF] Application Starting up
+2022-03-16 11:02:47.719 +06:00 [INF] Worker running at: "2022-03-16T11:02:47.7121754+06:00"
+2022-03-16 11:02:53.839 +06:00 [INF] Worker running at: "2022-03-16T11:02:53.8393851+06:00"
+2022-03-16 11:02:59.929 +06:00 [INF] Worker running at: "2022-03-16T11:02:59.9292998+06:00"
+2022-03-16 11:03:53.606 +06:00 [INF] Application Starting up
+2022-03-16 11:03:57.152 +06:00 [INF] Worker running at: "2022-03-16T11:03:57.1440124+06:00"
+2022-03-16 11:03:57.326 +06:00 [FTL] Application start-up failed
+System.InvalidCastException: Unable to cast object of type 'Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryable`1[StockExchange.Scraping.Entities.Company]' to type 'StockExchange.Scraping.Entities.Company'.
+   at StockExchange.Data.Repository`2.Get(Expression`1 filter) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Data\Repository.cs:line 36
+   at StockExchange.Scraping.Services.CompanyService.GetByTradeId(String tradeCode) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\CompanyService.cs:line 41
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 65
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 31
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 11:09:42.519 +06:00 [INF] Application Starting up
+2022-03-16 11:09:47.056 +06:00 [INF] Worker running at: "2022-03-16T11:09:47.0487620+06:00"
+2022-03-16 11:09:49.533 +06:00 [FTL] Application start-up failed
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s)
+   at StockExchange.Scraping.Services.ScrapingService.SaveStockData() in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\Services\ScrapingService.cs:line 51
+   at StockExchange.Worker.Worker.ExecuteAsync(CancellationToken stoppingToken) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Worker.cs:line 31
+   at Microsoft.Extensions.Hosting.Internal.Host.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.RunAsync(IHost host, CancellationToken token)
+   at Microsoft.Extensions.Hosting.HostingAbstractionsHostExtensions.Run(IHost host)
+   at StockExchange.Worker.Program.Main(String[] args) in D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Worker\Program.cs:line 42
+2022-03-16 11:33:30.759 +06:00 [INF] Application Starting up
+2022-03-16 11:33:35.002 +06:00 [INF] Worker running at: "2022-03-16T11:33:34.9915712+06:00"
+2022-03-16 11:40:27.671 +06:00 [INF] Application Starting up
+2022-03-16 11:40:32.301 +06:00 [INF] Worker running at: "2022-03-16T11:40:32.2858416+06:00"
+2022-03-16 11:57:30.171 +06:00 [INF] Application Starting up
+2022-03-16 11:57:35.414 +06:00 [INF] Worker running at: "2022-03-16T11:57:35.4036004+06:00"
+2022-03-16 11:57:44.061 +06:00 [INF] Worker running at: "2022-03-16T11:57:44.0613327+06:00"
+2022-03-16 12:03:37.227 +06:00 [INF] Application Starting up
+2022-03-16 12:03:41.828 +06:00 [INF] Worker running at: "2022-03-16T12:03:41.8197299+06:00"
+2022-03-16 12:06:17.181 +06:00 [INF] Application Starting up
+2022-03-16 12:06:21.414 +06:00 [INF] Worker running at: "2022-03-16T12:06:21.4062757+06:00"
+2022-03-16 12:10:52.001 +06:00 [INF] Application Starting up
+2022-03-16 12:10:56.772 +06:00 [INF] Worker running at: "2022-03-16T12:10:56.7644826+06:00"
+2022-03-16 12:12:04.346 +06:00 [INF] Worker running at: "2022-03-16T12:12:04.3462422+06:00"
+2022-03-16 12:27:25.188 +06:00 [INF] Application Starting up
+2022-03-16 12:27:29.721 +06:00 [INF] Worker running at: "2022-03-16T12:27:29.7164289+06:00"
+2022-03-16 12:28:33.269 +06:00 [INF] Worker running at: "2022-03-16T12:28:33.2693807+06:00"
+2022-03-16 12:34:34.054 +06:00 [INF] Application Starting up
+2022-03-16 12:34:37.650 +06:00 [INF] Worker running at: "2022-03-16T12:34:37.6433589+06:00"
+2022-03-16 12:35:40.080 +06:00 [INF] Worker running at: "2022-03-16T12:35:40.0801910+06:00"
+2022-03-16 12:42:00.156 +06:00 [INF] Application Starting up
+2022-03-16 12:42:05.895 +06:00 [INF] Worker running at: "2022-03-16T12:42:05.8835880+06:00"
+2022-03-16 12:43:09.421 +06:00 [INF] Worker running at: "2022-03-16T12:43:09.4218061+06:00"
+2022-03-16 15:20:19.575 +06:00 [INF] Application Starting up
+2022-03-16 15:20:22.832 +06:00 [INF] Worker running at: "2022-03-16T15:20:22.8240644+06:00"
+2022-03-16 15:22:03.888 +06:00 [INF] Application Starting up
+2022-03-16 15:22:07.330 +06:00 [INF] Worker running at: "2022-03-16T15:22:07.3235824+06:00"
+2022-03-16 15:23:36.468 +06:00 [INF] Application Starting up
+2022-03-16 15:24:11.043 +06:00 [INF] Application Starting up
+2022-03-16 15:25:28.777 +06:00 [INF] Application Starting up
+2022-03-16 15:25:32.439 +06:00 [INF] Worker running at: "2022-03-16T15:25:32.4334831+06:00"
+2022-03-16 15:26:08.072 +06:00 [INF] Application Starting up
+2022-03-16 15:26:11.651 +06:00 [INF] Worker running at: "2022-03-16T15:26:11.6431054+06:00"
+2022-03-16 15:33:02.334 +06:00 [INF] Application Starting up
+2022-03-16 15:33:06.634 +06:00 [INF] Worker running at: "2022-03-16T15:33:06.6206294+06:00"
+2022-03-16 15:42:45.079 +06:00 [INF] Application Starting up
+2022-03-16 15:42:50.211 +06:00 [INF] Worker running at: "2022-03-16T15:42:50.2002358+06:00"
+2022-03-16 16:12:01.834 +06:00 [INF] Application Starting up
+2022-03-16 16:12:07.225 +06:00 [INF] Worker running at: "2022-03-16T16:12:07.2150676+06:00"
+2022-03-16 16:23:09.317 +06:00 [INF] Application Starting up
+2022-03-16 16:23:12.751 +06:00 [INF] Worker running at: "2022-03-16T16:23:12.7443216+06:00"
+2022-03-16 16:27:08.976 +06:00 [INF] Application Starting up
+2022-03-16 16:27:12.539 +06:00 [INF] Worker running at: "2022-03-16T16:27:12.5316626+06:00"
+2022-03-16 16:32:57.284 +06:00 [INF] Application Starting up
+2022-03-16 16:33:00.824 +06:00 [INF] Worker running at: "2022-03-16T16:33:00.8150669+06:00"
+2022-03-16 16:36:24.415 +06:00 [INF] Application Starting up
+2022-03-16 16:36:27.310 +06:00 [INF] Worker running at: "2022-03-16T16:36:27.3014257+06:00"

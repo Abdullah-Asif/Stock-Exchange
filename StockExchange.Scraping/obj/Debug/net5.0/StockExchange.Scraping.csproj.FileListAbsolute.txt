@@ -1,0 +1,14 @@
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\bin\Debug\net5.0\StockExchange.Scraping.deps.json
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\bin\Debug\net5.0\StockExchange.Scraping.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\bin\Debug\net5.0\ref\StockExchange.Scraping.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\bin\Debug\net5.0\StockExchange.Scraping.pdb
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\bin\Debug\net5.0\StockExchange.Data.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\bin\Debug\net5.0\StockExchange.Data.pdb
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.csproj.AssemblyReference.cache
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.AssemblyInfoInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.AssemblyInfo.cs
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.csproj.CoreCompileInputs.cache
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\ref\StockExchange.Scraping.dll
+D:\Code\AspNET\.Net\ASP.NET\StockExchange\StockExchange.Scraping\obj\Debug\net5.0\StockExchange.Scraping.pdb
